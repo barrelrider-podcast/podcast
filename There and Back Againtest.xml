@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+ 
+  <channel>
+
+    <title>There and Back Again</title>
+    <description>The Lord of the Rings and the Hobbit by J.R.R. Tolkien, soundscape audiobooks by Phil Dragash and Bluefax respectively.</description>
+    <link>https://linktr.ee/lotr_audiobooks</link>
+    <language>en-us</language>
+    <copyright>Unknown</copyright>
+    <lastBuildDate>Wed, 03 Aug 2022 17:46:51 +0000</lastBuildDate>
+    <pubDate>Wed, 03 Aug 2022 17:46:51 +0000</pubDate>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <webMaster>barrelrider.podcast@proton.me</webMaster>
+	
+    <itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/lotrlogo.jpg"/>
+    <itunes:author>Barrel Rider</itunes:author>
+    <itunes:subtitle>Phil Dragash's Soundscape Audiobooks</itunes:subtitle>
+    <itunes:summary>The Lord of the Rings and the Hobbit by J.R.R. Tolkien. Soundscape audiobooks by Phil Dragash and Bluefax respectively.</itunes:summary>
+	<itunes:owner>
+		<itunes:name>Barrel Rider</itunes:name>
+		<itunes:email>barrelrider.podcast@proton.me</itunes:email>
+	</itunes:owner>
+	<itunes:explicit>No</itunes:explicit>
+	<itunes:category text="Fiction">
+		<itunes:category text="Drama"/>
+	</itunes:category>
+	
+	
+	
+	<item>
+<title>Chapter 21 - The Choices of Master Samwise</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/21%20-%20The%20Choices%20of%20Master%20Samwise.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/21%20-%20The%20Choices%20of%20Master%20Samwise.mp3</guid>
+<description>The Two Towers: Chapter 21 - The Choices of Master Samwise
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/21%20-%20The%20Choices%20of%20Master%20Samwise.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:20 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>21</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 20 - Shelob's Lair</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/20%20-%20Shelobs%20Lair.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/20%20-%20Shelobs%20Lair.mp3</guid>
+<description>The Two Towers: Chapter 20 - Shelob's Lair
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/20%20-%20Shelobs%20Lair.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:19 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>20</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 19 - The Stairs of Cirith Ungol</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/19%20-%20The%20Stairs%20of%20Cirith%20Ungol.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/19%20-%20The%20Stairs%20of%20Cirith%20Ungol.mp3</guid>
+<description>The Two Towers: Chapter 19 - The Stairs of Cirith Ungol
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/19%20-%20The%20Stairs%20of%20Cirith%20Ungol.mp3" length="101230592" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:18 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>19</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 18 - Journey To The Cross-Roads</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/18%20-%20Journey%20To%20The%20Cross-Roads.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/18%20-%20Journey%20To%20The%20Cross-Roads.mp3</guid>
+<description>The Two Towers: Chapter 18 - Journey To The Cross-Roads
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/18%20-%20Journey%20To%20The%20Cross-Roads.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:17 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>18</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 17 - The Forbidden Pool</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/17%20-%20The%20Forbidden%20Pool.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/17%20-%20The%20Forbidden%20Pool.mp3</guid>
+<description>The Two Towers: Chapter 17 - The Forbidden Pool
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/17%20-%20The%20Forbidden%20Pool.mp3" length="79294279" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:16 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>17</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 16 - The Window on the West</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/16%20-%20The%20Window%20On%20The%20West.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/16%20-%20The%20Window%20On%20The%20West.mp3</guid>
+<description>The Two Towers: Chapter 16 - The Window on the West
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/16%20-%20The%20Window%20On%20The%20West.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:15 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>16</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 15 - Of Herbs and Stewed Rabbit</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/15%20-%20Of%20Herbs%20and%20Stewed%20Rabbit.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/15%20-%20Of%20Herbs%20and%20Stewed%20Rabbit.mp3</guid>
+<description>The Two Towers: Chapter 15 - Of Herbs and Stewed Rabbit
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/15%20-%20Of%20Herbs%20and%20Stewed%20Rabbit.mp3" length="62328480" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:14 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>15</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 14 - The Black Gate Is Closed</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/14%20-%20The%20Black%20Gate%20is%20Closed.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/14%20-%20The%20Black%20Gate%20is%20Closed.mp3</guid>
+<description>The Two Towers: Chapter 14- The Black Gate Is Closed
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/14%20-%20The%20Black%20Gate%20is%20Closed.mp3" length="90859209" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:13 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>14</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 13 - The Passage of the Marshes</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/13%20-%20The%20Passage%20of%20the%20Marshes.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/13%20-%20The%20Passage%20of%20the%20Marshes.mp3</guid>
+<description>The Two Towers: Chapter 13- The Passage of the Marshes
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/13%20-%20The%20Passage%20of%20the%20Marshes.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:12 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>13</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 12 - Episode 12</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/12%20-%20The%20Taming%20of%20Smeagol.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/12%20-%20The%20Taming%20of%20Smeagol.mp3</guid>
+<description>The Two Towers: Chapter 12- Episode 12
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/12%20-%20The%20Taming%20of%20Smeagol.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:11 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>12</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 11 - The Palant&#195;&#173;r</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/11%20-%20The%20Palantir.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/11%20-%20The%20Palantir.mp3</guid>
+<description>The Two Towers: Chapter 11- The Palant&#195;&#173;r
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/11%20-%20The%20Palantir.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:10 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>11</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 10 - The Voice of Saruman</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/10%20-%20The%20Voice%20of%20Saruman.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/10%20-%20The%20Voice%20of%20Saruman.mp3</guid>
+<description>The Two Towers: Chapter 10 - The Voice of Saruman
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/10%20-%20The%20Voice%20of%20Saruman.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:09 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>10</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 09 - Flotsam &amp; Jetsam</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/09%20-%20Flotsam%20%26%20Jetsam.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/09%20-%20Flotsam%20%26%20Jetsam.mp3</guid>
+<description>The Two Towers: Chapter 9 - Flotsam &amp; Jetsam
+
+Episode 9 of 21.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/09%20-%20Flotsam%20%26%20Jetsam.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:08 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>9</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 08 - The Road To Isengard</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/08%20-%20The%20Road%20to%20Isengard.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/08%20-%20The%20Road%20to%20Isengard.mp3</guid>
+<description>The Two Towers: Chapter 8 - The Road To Isengard
+
+Episode 8 of 21.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/08%20-%20The%20Road%20to%20Isengard.mp3" length="94083764" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:07 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>8</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 07 - Helm's Deep</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/07%20-%20Helms%20Deep.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/07%20-%20Helms%20Deep.mp3</guid>
+<description>The Two Towers: Chapter 7 - Helm's Deep
+
+Episode 7 of 21.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/07%20-%20Helms%20Deep.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:06 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>7</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 06- The King of the Golden Hall</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/06%20-%20The%20King%20of%20the%20Golden%20Hall%202013.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/06%20-%20The%20King%20of%20the%20Golden%20Hall%202013.mp3</guid>
+<description>The Two Towers: Chapter 6 - The King of the Golden Hall
+
+Episode 6 of 21.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/06%20-%20The%20King%20of%20the%20Golden%20Hall%202013.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:05 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>6</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 05- The White Rider</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/05%20-%20The%20White%20Rider.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/05%20-%20The%20White%20Rider.mp3</guid>
+<description>The Two Towers: Chapter 5 - The White Rider
+
+Episode 5 of 21.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/05%20-%20The%20White%20Rider.mp3" length="107223040" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:04 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 04 - Treebeard</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/04%20-%20Treebeard.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/04%20-%20Treebeard.mp3</guid>
+<description>The Two Towers: Chapter 4 - Treebeard
+
+Episode 4 of 21.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/04%20-%20Treebeard.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:03 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 03 - The Uruk-Hai</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/03%20-%20The%20Uruk-Hai.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/03%20-%20The%20Uruk-Hai.mp3</guid>
+<description>The Two Towers: Chapter 3 - The Uruk-Hai
+
+Episode 3 of 21.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/03%20-%20The%20Uruk-Hai.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:02 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 02 - The Riders of Rohan</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/02%20-%20The%20Riders%20of%20Rohan.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/02%20-%20The%20Riders%20of%20Rohan.mp3</guid>
+<description>The Two Towers: Chapter 2 - The Riders of Rohan
+
+Episode 2 of 21.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/02%20-%20The%20Riders%20of%20Rohan.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:01 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+<item>
+<title>Chapter 01 - The Departure of Boromir</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/twotowers.jpg"/>
+<link>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/01%20-%20The%20Departure%20of%20Boromir.mp3</link>
+<guid>https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/01%20-%20The%20Departure%20of%20Boromir.mp3</guid>
+<description>The Two Towers: Chapter 1 - The Departure of Boromir
+
+Episode 1 of 21.</description>
+<enclosure url="https://archive.org/download/the-two-towers_soundscape-by-phil-dragash/01%20-%20The%20Departure%20of%20Boromir.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+<itunes:season>2</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+
+
+
+
+
+	<item>
+<title>Chapter 22 - The Breaking of the Fellowship</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/22%20-%20The%20Breaking%20of%20the%20Fellowship.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/22%20-%20The%20Breaking%20of%20the%20Fellowship.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 22 - The Breaking of the Fellowship
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/22%20-%20The%20Breaking%20of%20the%20Fellowship.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:21 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>22</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 21 - The Great River</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/21%20-%20The%20Great%20River%20(2013).mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/21%20-%20The%20Great%20River%20(2013).mp3</guid>
+<description>The Fellowship of the Ring: Chapter 21 - The Great River
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/21%20-%20The%20Great%20River%20(2013).mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:20 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>21</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 20 - Farewell to Lórien</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/20%20-%20Farewell%20to%20Lorien.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/20%20-%20Farewell%20to%20Lorien.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 20 - Farewell to Lórien
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/20%20-%20Farewell%20to%20Lorien.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:19 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>20</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 19 - The Mirror of Galadriel</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/19%20-%20Mirror%20of%20Galadriel.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/19%20-%20Mirror%20of%20Galadriel.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 19 - The Mirror of Galadriel
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/19%20-%20Mirror%20of%20Galadriel.mp3" length="95508480" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:18 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>19</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 18 - Lóthlorien</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/18%20-%20Lothlorien%20(2013).mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/18%20-%20Lothlorien%20(2013).mp3</guid>
+<description>The Fellowship of the Ring: Chapter 18 - Lóthlorien
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/18%20-%20Lothlorien%20(2013).mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:17 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>18</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 17 - The Bridge of Khazad-Dûm</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/17%20-%20The%20Bridge%20of%20Khazad-Dum.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/17%20-%20The%20Bridge%20of%20Khazad-Dum.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 17 - The Bridge of Khazad-Dûm
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/17%20-%20The%20Bridge%20of%20Khazad-Dum.mp3" length="83443712" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:16 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>17</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 16 - A Journey In The Dark</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/16%20-%20A%20Journey%20In%20The%20Dark.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/16%20-%20A%20Journey%20In%20The%20Dark.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 16 - A Journey In The Dark
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/16%20-%20A%20Journey%20In%20The%20Dark.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:15 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>16</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 15 - The Ring Goes South</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/15%20-%20The%20Ring%20Goes%20South.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/15%20-%20The%20Ring%20Goes%20South.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 15 - The Ring Goes South
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/15%20-%20The%20Ring%20Goes%20South.mp3" length="151021568" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:14 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>15</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 14 - The Council of Elrond</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/14%20-%20The%20Council%20of%20Elrond%20256.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/14%20-%20The%20Council%20of%20Elrond%20256.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 14 - The Council of Elrond
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/14%20-%20The%20Council%20of%20Elrond%20256.mp3" length="184975360" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:13 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>14</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 13 - Many Meetings</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/13%20-%20Many%20Meetings.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/13%20-%20Many%20Meetings.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 13 - Many Meetings
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/13%20-%20Many%20Meetings.mp3" length="131438592" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:12 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>13</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 12 - Flight to the Ford</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/12%20-%20Flight%20to%20the%20Ford.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/12%20-%20Flight%20to%20the%20Ford.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 12 - Flight to the Ford
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/12%20-%20Flight%20to%20the%20Ford.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:11 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>12</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 11 - A Knife in the Dark</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/11%20-%20A%20Knife%20in%20the%20Dark.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/11%20-%20A%20Knife%20in%20the%20Dark.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 11 - A Knife in the Dark
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/11%20-%20A%20Knife%20in%20the%20Dark.mp3" length="126431232" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:10 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>11</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 10 - Strider</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/10%20-%20Strider.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/10%20-%20Strider.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 10 - Strider
+
+Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, produced, and edited by Phil Dragash.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/10%20-%20Strider.mp3" length="76845056" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:09 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>10</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 09 - At the Sign of the Prancing Pony</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/09%20-%20At%20the%20Sign%20of%20the%20Prancing%20Pony.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/09%20-%20At%20the%20Sign%20of%20the%20Prancing%20Pony.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 9 - At the Sign of the Prancing Pony
+
+Episode 9 of 22.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/09%20-%20At%20the%20Sign%20of%20the%20Prancing%20Pony.mp3" length="62253056" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:08 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>9</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 08 - Fog on the Barrow-Downs</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/08%20-%20Fog%20on%20the%20Barrow%20Downs.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/08%20-%20Fog%20on%20the%20Barrow%20Downs.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 8 - Fog on the Barrow-Downs
+
+Episode 8 of 22.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/08%20-%20Fog%20on%20the%20Barrow%20Downs.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:07 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>8</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 07 - In the House of Tom Bombadil</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/07%20-%20In%20The%20House%20of%20Tom%20Bombadil.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/07%20-%20In%20The%20House%20of%20Tom%20Bombadil.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 7 - In the House of Tom Bombadil
+
+Episode 7 of 22.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/07%20-%20In%20The%20House%20of%20Tom%20Bombadil.mp3" length="63531008" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:06 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>7</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 06 - The Old Forest</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/06%20-%20The%20Old%20Forest.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/06%20-%20The%20Old%20Forest.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 6 - The Old Forest
+
+Episode 6 of 22.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/06%20-%20The%20Old%20Forest.mp3" length="" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:05 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>6</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 05 - A Conspiracy Unmasked</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/05%20-%20A%20Conspiracy%20Unmasked.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/05%20-%20A%20Conspiracy%20Unmasked.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 5 - A Conspiracy Unmasked
+
+Episode 5 of 22.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/05%20-%20A%20Conspiracy%20Unmasked.mp3" length="69834752" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:04 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>5</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 04 - A Shortcut to Mushrooms</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/04%20-%20A%20Shortcut%20to%20Mushrooms.mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/04%20-%20A%20Shortcut%20to%20Mushrooms.mp3</guid>
+<description>The Fellowship of the Ring: Chapter 4 - A Shortcut to Mushrooms
+
+Episode 4 of 22.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/04%20-%20A%20Shortcut%20to%20Mushrooms.mp3" length="78350336" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:03 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>4</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 03 - Three Is Company</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/03%20-%20Three%20Is%20Company%20(2014).mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/03%20-%20Three%20Is%20Company%20(2014).mp3</guid>
+<description>The Fellowship of the Ring: Chapter 3 - Three Is Company
+
+Episode 3 of 22.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/03%20-%20Three%20Is%20Company%20(2014).mp3" length="109070336" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:02 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>3</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 02 - The Shadow of the Past</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/02%20-%20The%20Shadow%20of%20the%20Past%20(2014).mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/02%20-%20The%20Shadow%20of%20the%20Past%20(2014).mp3</guid>
+<description>The Fellowship of the Ring: Chapter 2 - The Shadow of the Past
+
+Episode 2 of 22.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/02%20-%20The%20Shadow%20of%20the%20Past%20(2014).mp3" length="167630848" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:01 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>2</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item><item>
+<title>Chapter 01 - A Long-Expected Party</title>
+<itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/fellowshipofthering.jpg"/>
+<link>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/01%20-%20A%20Long-Expected%20Party%20(2014).mp3</link>
+<guid>https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/01%20-%20A%20Long-Expected%20Party%20(2014).mp3</guid>
+<description>The Fellowship of the Ring: Chapter 1 - A Long-Expected Party
+
+Episode 1 of 22.</description>
+<enclosure url="https://archive.org/download/the-fellowship-of-the-ring_soundscape-by-phil-dragash/01%20-%20A%20Long-Expected%20Party%20(2014).mp3" length="118861824" type="audio/mpeg"/>
+<category>Podcasts</category>
+<pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
+<itunes:season>1</itunes:season>
+<itunes:episode>1</itunes:episode>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
+  </channel>
+</rss>
