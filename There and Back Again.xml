@@ -27,7 +27,6 @@
 	<itunes:category text="Drama"/>
 	</itunes:category>
 	
-<!--THE RETURN OF THE KING -->
 	
 	<item>
 <title>Chapter 19 - The Grey Havens</title>
@@ -371,7 +370,8 @@ Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, 
 
 
 
-<!--THE TWO TOWERS-->
+
+
 	
 	
 	<item>
@@ -752,7 +752,6 @@ Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, 
 
 
 
-<!--THE FELLOWSHIP OF THE RING-->
 
 	<item>
 <title>Chapter 22 - The Breaking of the Fellowship</title>
@@ -1067,7 +1066,7 @@ Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, 
 </item>
 
 
-<!--THE HOBBIT-->
+
 
 	<item>
 <title>Chapter 19 - The Last Stage</title>
@@ -1408,13 +1407,6 @@ Written by J.R.R. Tolkien. Soundtrack composed by Howard Shore. Audiobook read, 
 <itunes:episode>1</itunes:episode>
 <itunes:episodeType>full</itunes:episodeType>
 </item>
-
-
-
-
-  </channel>
-</rss>
-
 
 
   </channel>
