@@ -4,7 +4,7 @@
   <channel>
 
     <title>There and Back Again</title>
-    <description>The Lord of the Rings & The Hobbit written by J.R.R. Tolkien. Music composed by Howard Shore. The Lord of the Rings Soundscape Audiobook voiced, produced, and edited by Phil Dragash. The Hobbit Soundscape Audiobook voiced, produced, and edited by Bluefax. Art by Jian Guo.</description>
+    <description>The Lord of the Rings & The Hobbit written by J.R.R. Tolkien. Music composed by Howard Shore. The Lord of the Rings Soundscape Audiobook narrated, produced, and edited by Phil Dragash. The Hobbit Soundscape Audiobook narrated, produced, and edited by Bluefax. Art by Jian Guo.</description>
     <link>https://linktr.ee/lotr_audiobooks</link>
     <language>en-us</language>
     <copyright>Unknown</copyright>
@@ -17,7 +17,7 @@
     <itunes:image href="https://raw.githubusercontent.com/barrelrider-podcast/podcast/main/lotrlogo.jpg"/>
     <itunes:author>Barrel Rider</itunes:author>
     <itunes:subtitle>Phil Dragash's and Bluefax's Soundscape Audiobooks</itunes:subtitle>
-    <itunes:summary>The Lord of the Rings & The Hobbit written by J.R.R. Tolkien. Music composed by Howard Shore. The Lord of the Rings Soundscape Audiobook voiced, produced, and edited by Phil Dragash. The Hobbit Soundscape Audiobook voiced, produced, and edited by Bluefax. Art by Jian Guo.</itunes:summary>
+    <itunes:summary>The Lord of the Rings & The Hobbit written by J.R.R. Tolkien. Music composed by Howard Shore. The Lord of the Rings Soundscape Audiobook narrated, produced, and edited by Phil Dragash. The Hobbit Soundscape Audiobook narrated, produced, and edited by Bluefax. Art by Jian Guo.</itunes:summary>
 	<itunes:owner>
 		<itunes:name>Barrel Rider</itunes:name>
 		<itunes:email>barrelrider.podcast@proton.me</itunes:email>
